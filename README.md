@@ -38,20 +38,30 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
 ## 📸 Screenshots
 
 <div align="center">
+  <!-- Replace the URLs below with paths to your actual screenshots -->
   <table>
     <tr>
       <td align="center">
-        <!-- Replace the URLs below with paths to your actual screenshots -->
-        <img src="https://via.placeholder.com/250x500.png?text=Dashboard+View" width="250" alt="Dashboard View"/><br/>
-        <b>The Dashboard</b>
+        <img src="https://via.placeholder.com/200x400.png?text=Dashboard" width="200" alt="Dashboard View"/><br/>
+        <b>Dashboard</b>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/250x500.png?text=Cognitive+Alarm" width="250" alt="Alarm View"/><br/>
-        <b>Cognitive Alarms</b>
+        <img src="https://via.placeholder.com/200x400.png?text=Alarm" width="200" alt="Alarm View"/><br/>
+        <b>Alarm</b>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/250x500.png?text=Insights+%26+Stats" width="250" alt="Stats View"/><br/>
-        <b>Insights & Stats</b>
+        <img src="https://via.placeholder.com/200x400.png?text=Timer" width="200" alt="Timer View"/><br/>
+        <b>Timer</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="1">
+        <img src="https://via.placeholder.com/200x400.png?text=Calendar" width="200" alt="Calendar View"/><br/>
+        <b>Calendar</b>
+      </td>
+      <td align="center" colspan="2">
+        <img src="https://via.placeholder.com/200x400.png?text=Stats" width="200" alt="Stats View"/><br/>
+        <b>Stats</b>
       </td>
     </tr>
   </table>
