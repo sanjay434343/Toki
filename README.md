@@ -42,7 +42,7 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/200x400.png?text=Dashboard" width="200" alt="Dashboard View"/><br/>
+        <img src="assets/dash" width="200" alt="Dashboard View"/><br/>
         <b>Dashboard</b>
       </td>
       <td align="center">
