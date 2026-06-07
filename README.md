@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 
   <br/><br/>
-  <table><tr><td>
+  <table><tr><td bgcolor="#E6E6FA">
   <em>Toki merges extreme productivity, time management, and habit tracking into a deeply engaging, gamified experience. Avoid digital distractions, wake up on time, and turn your daily routine into a rewarding game.</em>
   </td></tr></table>
 </div>
@@ -17,7 +17,7 @@
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#FFD1DC">
 
 ## 🎨 The Toki UI Aesthetic
 
@@ -33,7 +33,7 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#E8F5E9">
 
 ## 📸 Screenshots
 
@@ -63,7 +63,7 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#FFFFBA">
 
 ## 🤔 The Problem Toki Solves
 
@@ -81,7 +81,7 @@ Toki is designed for individuals who struggle with **executive dysfunction**, **
 </div>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#FFDFBA">
 
 ### 1. 🧠 Cognitive Wake-Up Alarms
 Standard alarms are too easy to turn off. Toki forces your brain to wake up.
@@ -96,7 +96,7 @@ Standard alarms are too easy to turn off. Toki forces your brain to wake up.
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#B2FBA5">
 
 ### 2. ⏳ Focus Timers (Pomodoro)
 - Set quick timers (e.g., 25 mins) from the dashboard or create custom labeled sessions.
@@ -109,7 +109,7 @@ Standard alarms are too easy to turn off. Toki forces your brain to wake up.
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#BAE1FF">
 
 ### 3. 📊 Daily Scoring & Analytics (The Aro Score)
 Your entire day is quantified into a score out of 100 based on your actions:
@@ -125,7 +125,7 @@ Your entire day is quantified into a score out of 100 based on your actions:
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#FFD1DC">
 
 ### 4. 🏆 Real-Time Gamified Leaderboard
 - Compete globally with other Toki users!
@@ -138,7 +138,7 @@ Your entire day is quantified into a score out of 100 based on your actions:
 <br/>
 
 <table>
-<tr><td>
+<tr><td bgcolor="#E6E6FA">
 
 ## 🛠️ Technology Stack
 
