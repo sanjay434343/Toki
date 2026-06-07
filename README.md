@@ -42,25 +42,25 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
   <table>
     <tr>
       <td align="center">
-        <img src="assets/dash" width="200" alt="Dashboard View"/><br/>
+        <img src="assets/dash.png" width="200" alt="Dashboard View"/><br/>
         <b>Dashboard</b>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/200x400.png?text=Alarm" width="200" alt="Alarm View"/><br/>
+        <img src="assets/alarm.png" width="200" alt="Alarm View"/><br/>
         <b>Alarm</b>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/200x400.png?text=Timer" width="200" alt="Timer View"/><br/>
+        <img src="assets/timer.png" width="200" alt="Timer View"/><br/>
         <b>Timer</b>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="1">
-        <img src="https://via.placeholder.com/200x400.png?text=Calendar" width="200" alt="Calendar View"/><br/>
+        <img src="assets/cal.png" width="200" alt="Calendar View"/><br/>
         <b>Calendar</b>
       </td>
       <td align="center" colspan="2">
-        <img src="https://via.placeholder.com/200x400.png?text=Stats" width="200" alt="Stats View"/><br/>
+        <img src="assets/stats.png" width="200" alt="Stats View"/><br/>
         <b>Stats</b>
       </td>
     </tr>
