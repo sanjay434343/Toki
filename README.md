@@ -8,12 +8,16 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 
-  <p>
-    <em>Toki merges extreme productivity, time management, and habit tracking into a deeply engaging, gamified experience. Avoid digital distractions, wake up on time, and turn your daily routine into a rewarding game.</em>
-  </p>
+  <br/><br/>
+  <table><tr><td>
+  <em>Toki merges extreme productivity, time management, and habit tracking into a deeply engaging, gamified experience. Avoid digital distractions, wake up on time, and turn your daily routine into a rewarding game.</em>
+  </td></tr></table>
 </div>
 
----
+<br/>
+
+<table>
+<tr><td>
 
 ## 🎨 The Toki UI Aesthetic
 
@@ -23,7 +27,13 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
 - **Fluid Animations**: From the counting scoreboard to the auto-scrolling leaderboard carousel, Toki feels alive.
 - **Customizable**: Switch between fonts (like Nunito), toggle 24-hour time, and personalize your experience.
 
----
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
 
 ## 📸 Screenshots
 
@@ -47,7 +57,13 @@ Toki isn't just a utility; it's an experience. We designed the app to feel incre
   </table>
 </div>
 
----
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
 
 ## 🤔 The Problem Toki Solves
 
@@ -55,9 +71,17 @@ Do you hit snooze 5 times every morning? Do you struggle to sit down and focus f
 
 Toki is designed for individuals who struggle with **executive dysfunction**, **procrastination**, or simply want to elevate their daily productivity. It forces you to be deliberate about your time by requiring physical and mental interaction to stop alarms and rewarding you for deep work sessions.
 
----
+</td></tr>
+</table>
 
-## ✨ Core Features
+<br/>
+
+<div align="center">
+  <h2>✨ Core Features</h2>
+</div>
+
+<table>
+<tr><td>
 
 ### 1. 🧠 Cognitive Wake-Up Alarms
 Standard alarms are too easy to turn off. Toki forces your brain to wake up.
@@ -66,10 +90,26 @@ Standard alarms are too easy to turn off. Toki forces your brain to wake up.
 - **Memory Games:** Memorize and match patterns to prove you are awake.
 - **Unstoppable Alarms:** Uses Android native APIs (Foreground Services, WakeLocks) to override "Do Not Disturb" and ensure your alarm rings out loud, no matter what.
 
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
+
 ### 2. ⏳ Focus Timers (Pomodoro)
 - Set quick timers (e.g., 25 mins) from the dashboard or create custom labeled sessions.
 - Dynamic color themes and fluid countdown animations keep you engaged.
 - Progress is tracked as "Focus Points" added to your daily score.
+
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
 
 ### 3. 📊 Daily Scoring & Analytics (The Aro Score)
 Your entire day is quantified into a score out of 100 based on your actions:
@@ -79,12 +119,26 @@ Your entire day is quantified into a score out of 100 based on your actions:
 - **Penalties:** Lose points for hitting the snooze button or accumulating too much screen time.
 - **Streaks:** Chain successful days together to build an unbreakable streak!
 
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
+
 ### 4. 🏆 Real-Time Gamified Leaderboard
 - Compete globally with other Toki users!
 - A real-time leaderboard (synced via Firebase Firestore) ranks users by their current Streak.
 - The Dashboard features an **animated Carousel Leaderboard** that cycles through top users, dynamically counting up to their scores.
 
----
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
 
 ## 🛠️ Technology Stack
 
@@ -93,35 +147,11 @@ Your entire day is quantified into a score out of 100 based on your actions:
 - **Native Android:** Kotlin (`AlarmActivity.kt`, `NativeBridge.kt`) for robust background execution, system-level alarm triggering, and bypassing OS sleep states.
 - **Icons:** [HugeIcons](https://hugeicons.com/) for a sleek, modern iconography style.
 
----
+</td></tr>
+</table>
 
-## 🚀 Getting Started
+<br/>
 
-### Prerequisites
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable)
-- Android Studio / Android SDK
-- Firebase Project (configured for Android)
-
-### Installation
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/yourusername/toki.git
-   ```
-2. Fetch dependencies.
-   ```bash
-   flutter pub get
-   ```
-3. Ensure your Android device/emulator is connected.
-4. Run the app!
-   ```bash
-   flutter run
-   ```
-   *Or build the APK:*
-   ```bash
-   flutter build apk --release
-   ```
-
----
 <div align="center">
   <b>Built with ❤️ using Flutter</b>
 </div>
